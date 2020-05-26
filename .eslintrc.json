@@ -28,6 +28,8 @@
       }
     ],
     "no-useless-constructor": "off",
+    "no-restricted-syntax": "off",
+    "no-await-in-loop": "off",
     "@typescript-eslint/interface-name-prefix": [
       "error",
       {
